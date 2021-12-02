@@ -1,0 +1,27 @@
+{
+    "name": "Simple Demo PWA",
+    "short_name": "PWA",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#f0f",
+    "theme_color": "#f0f",
+    "description": "A simple demo of PWA core technologies",
+    "icons": [{
+        "src": "icon512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+    }, {
+        "src": "icon16.png",
+        "sizes": "16x16",
+        "type": "image/png",
+        "purpose": "any"
+    }, {
+        "src": "icon196.png",
+        "sizes": "196x196",
+        "type": "image/png",
+        "purpose": "any maskable"
+    }],
+    "orientation": "portrait"
+    }
